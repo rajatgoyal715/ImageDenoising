@@ -2,7 +2,7 @@ import numpy as np
 import cv2
 from matplotlib import pyplot as plt
 
-file_name = 'fest2'
+file_name = 'fest'
 file_extension = ".jpeg"
 file_input = file_name + file_extension
 img = cv2.imread(file_input)
